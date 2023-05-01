@@ -2,6 +2,7 @@
   "name": "new-tab",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://tab.sugjo.ru/",
   "type": "module",
   "scripts": {
     "dev": "vite",
